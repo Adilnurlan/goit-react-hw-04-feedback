@@ -1,0 +1,16 @@
+ul {
+  list-style: none;
+}
+
+.section {
+  display: block;
+  background-color: #909a74;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+}
